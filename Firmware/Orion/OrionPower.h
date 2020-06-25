@@ -1,4 +1,4 @@
-#ifdef OrionPower_h
+#ifndef OrionPower_h
 #define OrionPower_h
 
 #include <Arduino.h>
