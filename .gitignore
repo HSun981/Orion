@@ -1,0 +1,7 @@
+#ignore EAGLE board and schematics autosave files in all directories
+*.b#?
+*.s#?
+
+#Development files for making local changes to Ardurino libraries
+#ignore in all directories
+.development
